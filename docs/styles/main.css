@@ -10066,7 +10066,7 @@ body {
     position: fixed;
     bottom: 0;
     right: 0;
-    margin: 0px 15px 15px 15px;
+    margin: 0px 20px 25px 15px;
 }
 
 .bottom_left {
@@ -10075,5 +10075,5 @@ body {
     text-align: right;
     bottom: 0;
     left: 0;
-    margin: 0px 15px 15px 15px;
+    margin: 0px 15px 25px 20px;
 }
